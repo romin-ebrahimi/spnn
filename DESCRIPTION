@@ -2,8 +2,8 @@ Package: spnn
 Type: Package
 Title: Scale Invariant Probabilistic Neural Networks
 Version: 1.3.0
-Date: 2020-01-07
-Author: Romin Ebrahimi
+Date: 2025-10-20
+Author: Romin Ebrahimi [aut, cre]
 Maintainer: Romin Ebrahimi <romin.ebrahimi@utexas.edu>
 Authors@R: person(given = "Romin",
                   family = "Ebrahimi",
